@@ -1,0 +1,21 @@
+body {
+  background-color: bisque;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: bisque;
+}
+
+#about {
+  background-color: #273036;
+}
+#contact {
+  background-color: #273036;
+}
+.footer {
+  background-color: #273036;
+}
+section {
+  padding-top: 6rem;
+}
